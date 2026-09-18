@@ -2,9 +2,10 @@ name: Poll jobs (be first)
 
 on:
   schedule:
-    # Every 30 minutes. GitHub may delay scheduled runs a few minutes on
-    # low-traffic repos; this is the practical floor for a free cron.
-    - cron: "*/30 * * * *"
+    # Every 15 minutes. Public repo = unlimited free Actions minutes, so we
+    # poll aggressively to be an early applicant. GitHub's scheduled-run floor
+    # is 5 min, and runs can still be delayed a few minutes under load.
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 # Prevent overlapping runs from racing on the committed state file.
