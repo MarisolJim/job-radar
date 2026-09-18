@@ -1,0 +1,44 @@
+name: Poll jobs (be first)
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub may delay scheduled runs a few minutes on
+    # low-traffic repos; this is the practical floor for a free cron.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+# Prevent overlapping runs from racing on the committed state file.
+concurrency:
+  group: job-radar-poll
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Poll and alert
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+        run: python src/main.py poll
+
+      - name: Persist seen-jobs state
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          git add data/seen.json
+          git diff --staged --quiet || git commit -m "chore: update seen jobs"
+          git push

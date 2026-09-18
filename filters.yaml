@@ -1,0 +1,37 @@
+# Rules that turn every company's full posting list into YOUR shortlist.
+# A job is kept only if it passes all the rules below. Leave a list empty ([])
+# to disable that rule. Matching is case-insensitive substring matching.
+
+# Keep only titles containing at least one of these (new-grad SWE focused):
+title_include:
+  - software engineer
+  - software developer
+  - new grad
+  - new graduate
+  - university grad
+  - early career
+  - associate engineer
+  - "engineer i"
+  - "engineer 1"
+
+# Drop titles containing any of these (senior/lead/manager/etc.):
+title_exclude:
+  - senior
+  - staff
+  - principal
+  - lead
+  - manager
+  - director
+  - "ii"
+  - "iii"
+  - intern          # remove this line if you also want internships
+  - phd
+
+# Keep only these locations (leave empty to allow all):
+location_include: []
+
+# Drop these locations:
+location_exclude: []
+
+# Set true to keep only remote roles:
+remote_only: false

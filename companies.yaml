@@ -1,0 +1,40 @@
+# YOUR company watchlist — this is the part you control.
+#
+# For each company, find which ATS its careers page uses and the "slug":
+#   Greenhouse : boards.greenhouse.io/SLUG           -> ats: greenhouse
+#   Lever      : jobs.lever.co/SLUG                   -> ats: lever
+#   Ashby      : jobs.ashbyhq.com/SLUG                -> ats: ashby
+#
+# priority:
+#   2  = alert me INSTANTLY when they post (emailed on the next poll)
+#   1  = include in the daily digest
+#   0  = include in the daily digest (default)
+#
+# The examples below are real, mission-aligned orgs (verified live) so this
+# doubles as a starter social-impact watchlist. Add/replace with your targets.
+
+companies:
+  - name: Mozilla
+    ats: greenhouse
+    slug: mozilla
+    priority: 2
+
+  - name: Wikimedia Foundation
+    ats: greenhouse
+    slug: wikimedia
+    priority: 2
+
+  - name: Khan Academy
+    ats: greenhouse
+    slug: khanacademy
+    priority: 1
+
+  - name: Code for America
+    ats: greenhouse
+    slug: codeforamerica
+    priority: 1
+
+  - name: Watershed
+    ats: greenhouse
+    slug: watershed
+    priority: 1
