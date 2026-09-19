@@ -2,29 +2,85 @@
 # A job is kept only if it passes all the rules below. Leave a list empty ([])
 # to disable that rule. Matching is case-insensitive substring matching.
 
-# Keep only titles containing at least one of these (new-grad SWE focused):
-title_include:
+# NEW-GRAD / EARLY-CAREER SWE ONLY.
+# A title must match BOTH groups below: it must be a software/engineering role
+# (title_role_any) AND carry an early-career signal (title_level_any). This is
+# strict on purpose — roles titled plainly "Software Engineer" (no level) are
+# NOT kept, because the fast poll only sees the title, not the years-required.
+# To cast a wider net, add "software engineer" to title_level_any.
+
+# Group 1 — must be a software/engineering role (keeps out sales, ops, etc.):
+title_role_any:
   - software engineer
   - software developer
+  - swe
+  - backend engineer
+  - back end engineer
+  - frontend engineer
+  - front end engineer
+  - full stack engineer
+  - fullstack engineer
+  - full-stack engineer
+  - platform engineer
+  - infrastructure engineer
+  - systems engineer
+  - machine learning engineer
+  - ml engineer
+  - data engineer
+  - applications engineer
+  - mobile engineer
+  - security engineer
+
+# Group 2 — must signal early-career / new-grad:
+title_level_any:
   - new grad
   - new graduate
+  - new college grad
+  - recent grad
+  - recent graduate
+  - college grad
   - university grad
+  - university graduate
   - early career
-  - associate engineer
-  - "engineer i"
-  - "engineer 1"
+  - early-career
+  - entry level
+  - entry-level
+  - graduate
+  - associate
+  - junior
+  - software engineer i
+  - software engineer 1
+  - swe i
+  - engineer i
+  - engineer 1
+  - apprentice
+  - rotational
+  - campus
+  - class of 2026
+  - class of 2027
+  - "2026 grad"
+  - "2027 grad"
 
-# Drop titles containing any of these (senior/lead/manager/etc.):
+# (Unused legacy single-list include; leave empty when using the two groups above.)
+title_include: []
+
+# Drop titles containing any of these (seniority, internships, PhD-only).
+# Matching is whole-word: "ii" drops "Engineer II" but not "iii".
 title_exclude:
   - senior
+  - sr
   - staff
   - principal
   - lead
   - manager
   - director
-  - "ii"
-  - "iii"
-  - intern          # remove this line if you also want internships
+  - head
+  - ii
+  - iii
+  - iv
+  - intern          # remove if you also want internships
+  - internship
+  - co-op
   - phd
 
 # Keep only these locations (leave empty to allow all):
