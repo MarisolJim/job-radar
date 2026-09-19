@@ -2,19 +2,19 @@ name: Poll jobs (be first)
 
 on:
   schedule:
-    # Every 15 minutes. Public repo = unlimited free Actions minutes, so we
-    # poll aggressively to be an early applicant. GitHub's scheduled-run floor
-    # is 5 min, and runs can still be delayed a few minutes under load.
+    # Every 15 minutes. Public repo = unlimited free Actions minutes. GitHub's
+    # scheduled-run floor is 5 min, and runs can still be delayed under load.
     - cron: "*/15 * * * *"
   workflow_dispatch:
 
-# Prevent overlapping runs from racing on the committed state file.
+# Serialize runs so the cached state file is never updated by two runs at once.
 concurrency:
   group: job-radar-poll
   cancel-in-progress: false
 
+# No repo writes needed any more — state lives in the Actions cache, not git.
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   poll:
@@ -26,6 +26,18 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Restore the seen-jobs state from the cache. A unique key per run means
+      # the post-job step always saves a fresh snapshot; restore-keys pulls the
+      # most recent previous one. (Caches unused for 7 days are evicted, which
+      # would just cause one "everything is new" run — harmless.)
+      - name: Restore seen-jobs state
+        uses: actions/cache@v4
+        with:
+          path: data/seen.json
+          key: seen-jobs-${{ github.run_id }}
+          restore-keys: |
+            seen-jobs-
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 
@@ -35,11 +47,3 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
         run: python src/main.py poll
-
-      - name: Persist seen-jobs state
-        run: |
-          git config user.name "job-radar-bot"
-          git config user.email "job-radar-bot@users.noreply.github.com"
-          git add data/seen.json
-          git diff --staged --quiet || git commit -m "chore: update seen jobs"
-          git push

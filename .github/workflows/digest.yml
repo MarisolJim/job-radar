@@ -19,6 +19,15 @@ jobs:
         with:
           python-version: "3.12"
 
+      # Read-only restore of the state the poll workflow maintains in the cache.
+      - name: Restore seen-jobs state
+        uses: actions/cache/restore@v4
+        with:
+          path: data/seen.json
+          key: seen-jobs-${{ github.run_id }}
+          restore-keys: |
+            seen-jobs-
+
       - name: Install dependencies
         run: pip install -r requirements.txt
 

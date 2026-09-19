@@ -3,3 +3,6 @@ __pycache__/
 .env
 .venv/
 venv/
+
+# State is kept in the GitHub Actions cache, not the repo (avoids merge conflicts).
+data/seen.json
