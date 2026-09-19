@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T01:03:11.959195+00:00",
+  "updated_at": "2026-09-19T00:48:19.172487+00:00",
   "jobs": {
     "64ab13ced32687b4": {
       "source": "greenhouse",
@@ -11,7 +11,7 @@
       "posted_at": "2026-08-21T16:50:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.713851+00:00",
+      "first_seen": "2026-09-19T00:43:46.923850+00:00",
       "id": "64ab13ced32687b4"
     },
     "4edd9db10a3e23fb": {
@@ -24,7 +24,7 @@
       "posted_at": "2026-08-21T16:49:52+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.714287+00:00",
+      "first_seen": "2026-09-19T00:43:46.924066+00:00",
       "id": "4edd9db10a3e23fb"
     },
     "76319d4d2f710f23": {
@@ -37,7 +37,7 @@
       "posted_at": "2026-08-24T15:48:12+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715043+00:00",
+      "first_seen": "2026-09-19T00:43:46.924455+00:00",
       "id": "76319d4d2f710f23"
     },
     "41f89f7f08ab21d4": {
@@ -50,8 +50,21 @@
       "posted_at": "2026-08-24T20:46:48+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715150+00:00",
+      "first_seen": "2026-09-19T00:43:46.924506+00:00",
       "id": "41f89f7f08ab21d4"
+    },
+    "e3b3b686967caef8": {
+      "source": "greenhouse",
+      "company": "Anthropic",
+      "title": "Software Engineer, Business Technology",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400160008",
+      "location": "London, UK",
+      "remote": null,
+      "posted_at": "2026-08-28T18:44:02+00:00",
+      "department": null,
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:46.924508+00:00",
+      "id": "e3b3b686967caef8"
     },
     "459a37304b53cad8": {
       "source": "greenhouse",
@@ -63,7 +76,7 @@
       "posted_at": "2026-08-21T16:50:42+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715160+00:00",
+      "first_seen": "2026-09-19T00:43:46.924512+00:00",
       "id": "459a37304b53cad8"
     },
     "d501ba1b5d79a948": {
@@ -76,7 +89,7 @@
       "posted_at": "2026-08-21T16:49:40+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715171+00:00",
+      "first_seen": "2026-09-19T00:43:46.924517+00:00",
       "id": "d501ba1b5d79a948"
     },
     "d742a6cd6784494f": {
@@ -89,7 +102,7 @@
       "posted_at": "2026-08-21T16:50:07+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715176+00:00",
+      "first_seen": "2026-09-19T00:43:46.924520+00:00",
       "id": "d742a6cd6784494f"
     },
     "ecf2f948d0240cb2": {
@@ -102,7 +115,7 @@
       "posted_at": "2026-09-09T17:34:24+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715181+00:00",
+      "first_seen": "2026-09-19T00:43:46.924522+00:00",
       "id": "ecf2f948d0240cb2"
     },
     "7075d905dd68c05c": {
@@ -115,7 +128,7 @@
       "posted_at": "2026-08-21T16:49:45+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715186+00:00",
+      "first_seen": "2026-09-19T00:43:46.924524+00:00",
       "id": "7075d905dd68c05c"
     },
     "a78595dd7a3c7af6": {
@@ -128,7 +141,7 @@
       "posted_at": "2026-09-16T14:12:43+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:54.715191+00:00",
+      "first_seen": "2026-09-19T00:43:46.924527+00:00",
       "id": "a78595dd7a3c7af6"
     },
     "b2065b270dc6d408": {
@@ -141,7 +154,7 @@
       "posted_at": "2026-06-08T16:15:58.343000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661893+00:00",
+      "first_seen": "2026-09-19T00:43:47.698455+00:00",
       "id": "b2065b270dc6d408"
     },
     "1d6fcb679521838e": {
@@ -154,7 +167,7 @@
       "posted_at": "2024-06-27T22:14:24.195000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661899+00:00",
+      "first_seen": "2026-09-19T00:43:47.698458+00:00",
       "id": "1d6fcb679521838e"
     },
     "dae256465e64f455": {
@@ -167,7 +180,7 @@
       "posted_at": "2025-03-27T16:44:10.676000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661911+00:00",
+      "first_seen": "2026-09-19T00:43:47.698465+00:00",
       "id": "dae256465e64f455"
     },
     "54bb39027f2394bd": {
@@ -180,7 +193,7 @@
       "posted_at": "2023-09-22T01:31:37.849000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661917+00:00",
+      "first_seen": "2026-09-19T00:43:47.698468+00:00",
       "id": "54bb39027f2394bd"
     },
     "6ac0c2d2d9bcffdb": {
@@ -193,7 +206,7 @@
       "posted_at": "2026-02-19T20:41:43.290000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661944+00:00",
+      "first_seen": "2026-09-19T00:43:47.698483+00:00",
       "id": "6ac0c2d2d9bcffdb"
     },
     "de3d75e06c49c128": {
@@ -206,7 +219,7 @@
       "posted_at": "2024-04-20T03:52:24.444000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661954+00:00",
+      "first_seen": "2026-09-19T00:43:47.698486+00:00",
       "id": "de3d75e06c49c128"
     },
     "4a0395b798c92425": {
@@ -219,7 +232,7 @@
       "posted_at": "2026-04-15T16:54:42.457000+00:00",
       "department": "Security",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661965+00:00",
+      "first_seen": "2026-09-19T00:43:47.698492+00:00",
       "id": "4a0395b798c92425"
     },
     "fd787dcf97a285a1": {
@@ -232,7 +245,7 @@
       "posted_at": "2026-08-28T17:41:41.133000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661971+00:00",
+      "first_seen": "2026-09-19T00:43:47.698494+00:00",
       "id": "fd787dcf97a285a1"
     },
     "acac55124ce2efae": {
@@ -245,7 +258,7 @@
       "posted_at": "2024-06-11T23:45:37.932000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661980+00:00",
+      "first_seen": "2026-09-19T00:43:47.698500+00:00",
       "id": "acac55124ce2efae"
     },
     "5cd83675bdff400a": {
@@ -258,7 +271,7 @@
       "posted_at": "2024-11-22T16:46:12.888000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661984+00:00",
+      "first_seen": "2026-09-19T00:43:47.698503+00:00",
       "id": "5cd83675bdff400a"
     },
     "2a86855b632b9141": {
@@ -271,7 +284,7 @@
       "posted_at": "2025-11-19T17:25:04.724000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661993+00:00",
+      "first_seen": "2026-09-19T00:43:47.698513+00:00",
       "id": "2a86855b632b9141"
     },
     "f132a583dbc0eff0": {
@@ -284,7 +297,7 @@
       "posted_at": "2025-02-13T19:21:22.786000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.661999+00:00",
+      "first_seen": "2026-09-19T00:43:47.698516+00:00",
       "id": "f132a583dbc0eff0"
     },
     "560f1c5cccaa9e64": {
@@ -297,7 +310,7 @@
       "posted_at": "2025-07-22T20:47:54.607000+00:00",
       "department": "People",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662003+00:00",
+      "first_seen": "2026-09-19T00:43:47.698519+00:00",
       "id": "560f1c5cccaa9e64"
     },
     "a97315c9edb224e2": {
@@ -310,7 +323,7 @@
       "posted_at": "2025-05-30T04:42:58.387000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662008+00:00",
+      "first_seen": "2026-09-19T00:43:47.698521+00:00",
       "id": "a97315c9edb224e2"
     },
     "680c05f05142e2df": {
@@ -323,7 +336,7 @@
       "posted_at": "2024-10-31T21:48:04.780000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662035+00:00",
+      "first_seen": "2026-09-19T00:43:47.698538+00:00",
       "id": "680c05f05142e2df"
     },
     "6a0966e6977603d7": {
@@ -336,7 +349,7 @@
       "posted_at": "2026-07-21T16:47:15.711000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662039+00:00",
+      "first_seen": "2026-09-19T00:43:47.698541+00:00",
       "id": "6a0966e6977603d7"
     },
     "7ff1448c5259728d": {
@@ -349,7 +362,7 @@
       "posted_at": "2025-02-06T17:40:57.429000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662053+00:00",
+      "first_seen": "2026-09-19T00:43:47.698548+00:00",
       "id": "7ff1448c5259728d"
     },
     "47bc78814fd6c1c1": {
@@ -362,7 +375,7 @@
       "posted_at": "2024-12-10T18:27:47.910000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662061+00:00",
+      "first_seen": "2026-09-19T00:43:47.698552+00:00",
       "id": "47bc78814fd6c1c1"
     },
     "c02cec1e9c29127f": {
@@ -375,7 +388,7 @@
       "posted_at": "2025-11-15T01:25:39.198000+00:00",
       "department": "Forward Deployed Engineering",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662081+00:00",
+      "first_seen": "2026-09-19T00:43:47.698570+00:00",
       "id": "c02cec1e9c29127f"
     },
     "8b630bdc24f9d407": {
@@ -388,7 +401,7 @@
       "posted_at": "2025-10-17T19:57:46.161000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662085+00:00",
+      "first_seen": "2026-09-19T00:43:47.698572+00:00",
       "id": "8b630bdc24f9d407"
     },
     "786ae5a2991b25a2": {
@@ -401,7 +414,7 @@
       "posted_at": "2025-10-17T16:59:57.134000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662098+00:00",
+      "first_seen": "2026-09-19T00:43:47.698581+00:00",
       "id": "786ae5a2991b25a2"
     },
     "75e2671ebdc47861": {
@@ -414,7 +427,7 @@
       "posted_at": "2026-05-11T21:03:23.567000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662102+00:00",
+      "first_seen": "2026-09-19T00:43:47.698585+00:00",
       "id": "75e2671ebdc47861"
     },
     "a5ccbe993234b483": {
@@ -427,7 +440,7 @@
       "posted_at": "2026-02-12T21:09:00.972000+00:00",
       "department": "User Operations",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662148+00:00",
+      "first_seen": "2026-09-19T00:43:47.698615+00:00",
       "id": "a5ccbe993234b483"
     },
     "87b3e8208b19707f": {
@@ -440,7 +453,7 @@
       "posted_at": "2025-03-17T16:10:28.608000+00:00",
       "department": "Safety Systems",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662153+00:00",
+      "first_seen": "2026-09-19T00:43:47.698617+00:00",
       "id": "87b3e8208b19707f"
     },
     "216854e2c465b1f2": {
@@ -453,8 +466,21 @@
       "posted_at": "2026-07-15T14:28:42.801000+00:00",
       "department": "Security",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662157+00:00",
+      "first_seen": "2026-09-19T00:43:47.698620+00:00",
       "id": "216854e2c465b1f2"
+    },
+    "7fcff38ffa43400a": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Privacy",
+      "url": "https://jobs.ashbyhq.com/openai/fb5862cc-244c-410b-b287-47df89ad1e43",
+      "location": "Dublin, Ireland",
+      "remote": null,
+      "posted_at": "2025-04-10T11:03:57.032000+00:00",
+      "department": "Security",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.698628+00:00",
+      "id": "7fcff38ffa43400a"
     },
     "03749fe0376baaf1": {
       "source": "ashby",
@@ -466,7 +492,7 @@
       "posted_at": "2025-04-14T21:41:35.324000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662187+00:00",
+      "first_seen": "2026-09-19T00:43:47.698636+00:00",
       "id": "03749fe0376baaf1"
     },
     "926a51d7197972ab": {
@@ -479,7 +505,7 @@
       "posted_at": "2026-02-04T05:18:21.985000+00:00",
       "department": "Go To Market",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662192+00:00",
+      "first_seen": "2026-09-19T00:43:47.698638+00:00",
       "id": "926a51d7197972ab"
     },
     "5ec8b8257f48c173": {
@@ -492,7 +518,7 @@
       "posted_at": "2026-09-08T22:02:49.677000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662206+00:00",
+      "first_seen": "2026-09-19T00:43:47.698647+00:00",
       "id": "5ec8b8257f48c173"
     },
     "d90d28b3a6b76fa2": {
@@ -505,7 +531,7 @@
       "posted_at": "2025-06-27T20:50:51.729000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662215+00:00",
+      "first_seen": "2026-09-19T00:43:47.698652+00:00",
       "id": "d90d28b3a6b76fa2"
     },
     "27e0a1b531471439": {
@@ -518,7 +544,7 @@
       "posted_at": "2026-06-05T05:02:58.415000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662219+00:00",
+      "first_seen": "2026-09-19T00:43:47.698655+00:00",
       "id": "27e0a1b531471439"
     },
     "7405b7d828e6c30b": {
@@ -531,7 +557,7 @@
       "posted_at": "2025-05-21T18:27:41.612000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662258+00:00",
+      "first_seen": "2026-09-19T00:43:47.698671+00:00",
       "id": "7405b7d828e6c30b"
     },
     "85302e21e14a30e8": {
@@ -544,7 +570,7 @@
       "posted_at": "2026-01-23T01:32:42.860000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662263+00:00",
+      "first_seen": "2026-09-19T00:43:47.698674+00:00",
       "id": "85302e21e14a30e8"
     },
     "4f30a3e178e3fafe": {
@@ -557,8 +583,21 @@
       "posted_at": "2026-02-05T19:14:42.993000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662276+00:00",
+      "first_seen": "2026-09-19T00:43:47.698682+00:00",
       "id": "4f30a3e178e3fafe"
+    },
+    "54d2ff7f50939560": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Integrity Foundations - London",
+      "url": "https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945",
+      "location": "London, UK",
+      "remote": null,
+      "posted_at": "2026-08-31T22:30:25.325000+00:00",
+      "department": "Applied AI",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.698685+00:00",
+      "id": "54d2ff7f50939560"
     },
     "216fc126c28fd00d": {
       "source": "ashby",
@@ -570,7 +609,7 @@
       "posted_at": "2025-07-29T15:35:56.790000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662323+00:00",
+      "first_seen": "2026-09-19T00:43:47.698709+00:00",
       "id": "216fc126c28fd00d"
     },
     "c758936a1b22e643": {
@@ -583,7 +622,7 @@
       "posted_at": "2025-07-18T18:04:13.589000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662328+00:00",
+      "first_seen": "2026-09-19T00:43:47.698712+00:00",
       "id": "c758936a1b22e643"
     },
     "7e6465ceabcb0b53": {
@@ -596,7 +635,7 @@
       "posted_at": "2025-07-18T18:05:35.342000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662332+00:00",
+      "first_seen": "2026-09-19T00:43:47.698714+00:00",
       "id": "7e6465ceabcb0b53"
     },
     "987ddd1b1386d878": {
@@ -609,7 +648,7 @@
       "posted_at": "2025-08-04T16:58:03.020000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662346+00:00",
+      "first_seen": "2026-09-19T00:43:47.698724+00:00",
       "id": "987ddd1b1386d878"
     },
     "c77f093d1b8201b5": {
@@ -622,8 +661,21 @@
       "posted_at": "2026-05-21T19:03:36.475000+00:00",
       "department": "Consumer Devices",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662377+00:00",
+      "first_seen": "2026-09-19T00:43:47.698744+00:00",
       "id": "c77f093d1b8201b5"
+    },
+    "b6391f0dfbc48ec6": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, ChatGPT Infrastructure",
+      "url": "https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8",
+      "location": "London, UK",
+      "remote": null,
+      "posted_at": "2026-07-28T19:48:03.864000+00:00",
+      "department": "Applied AI",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.698759+00:00",
+      "id": "b6391f0dfbc48ec6"
     },
     "93d1fdd53960987e": {
       "source": "ashby",
@@ -635,8 +687,21 @@
       "posted_at": "2026-01-30T23:55:33.386000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662405+00:00",
+      "first_seen": "2026-09-19T00:43:47.698762+00:00",
       "id": "93d1fdd53960987e"
+    },
+    "bbd654aaaefd9b68": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "url": "https://jobs.ashbyhq.com/openai/29c2c171-fb63-4985-9ac5-229b2ff5ced6",
+      "location": "London, UK",
+      "remote": null,
+      "posted_at": "2025-10-01T16:17:45.679000+00:00",
+      "department": "Applied AI",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.698765+00:00",
+      "id": "bbd654aaaefd9b68"
     },
     "e0ef5771046f323c": {
       "source": "ashby",
@@ -648,7 +713,7 @@
       "posted_at": "2025-09-22T22:43:11.939000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662439+00:00",
+      "first_seen": "2026-09-19T00:43:47.698783+00:00",
       "id": "e0ef5771046f323c"
     },
     "c5b40d57ba3d4b61": {
@@ -661,7 +726,7 @@
       "posted_at": "2025-09-18T23:14:35.252000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662449+00:00",
+      "first_seen": "2026-09-19T00:43:47.698788+00:00",
       "id": "c5b40d57ba3d4b61"
     },
     "b163528fd55ccd98": {
@@ -674,7 +739,7 @@
       "posted_at": "2025-12-23T00:45:03.747000+00:00",
       "department": "User Operations",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662453+00:00",
+      "first_seen": "2026-09-19T00:43:47.698790+00:00",
       "id": "b163528fd55ccd98"
     },
     "518d5082f88f8049": {
@@ -687,7 +752,7 @@
       "posted_at": "2025-10-17T18:06:15.656000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662476+00:00",
+      "first_seen": "2026-09-19T00:43:47.698804+00:00",
       "id": "518d5082f88f8049"
     },
     "4037bd049f5ca4fb": {
@@ -700,7 +765,7 @@
       "posted_at": "2025-10-06T20:14:35.243000+00:00",
       "department": "Security",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662513+00:00",
+      "first_seen": "2026-09-19T00:43:47.698825+00:00",
       "id": "4037bd049f5ca4fb"
     },
     "27cbd512767c8828": {
@@ -713,7 +778,7 @@
       "posted_at": "2026-07-13T19:27:11.674000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662561+00:00",
+      "first_seen": "2026-09-19T00:43:47.698851+00:00",
       "id": "27cbd512767c8828"
     },
     "18b211a10aae3013": {
@@ -726,7 +791,7 @@
       "posted_at": "2025-12-10T22:20:16.127000+00:00",
       "department": "Forward Deployed Engineering",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662570+00:00",
+      "first_seen": "2026-09-19T00:43:47.698856+00:00",
       "id": "18b211a10aae3013"
     },
     "c0342c24a8f71c0d": {
@@ -739,7 +804,7 @@
       "posted_at": "2026-08-05T22:18:13.968000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662579+00:00",
+      "first_seen": "2026-09-19T00:43:47.698863+00:00",
       "id": "c0342c24a8f71c0d"
     },
     "387b9d2beed25ad7": {
@@ -752,7 +817,7 @@
       "posted_at": "2025-12-10T17:58:51.545000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662611+00:00",
+      "first_seen": "2026-09-19T00:43:47.698880+00:00",
       "id": "387b9d2beed25ad7"
     },
     "a029ccc62ec9a7f1": {
@@ -765,7 +830,7 @@
       "posted_at": "2026-04-21T01:53:49.722000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662624+00:00",
+      "first_seen": "2026-09-19T00:43:47.698888+00:00",
       "id": "a029ccc62ec9a7f1"
     },
     "7fe84a07dc02a914": {
@@ -778,7 +843,7 @@
       "posted_at": "2025-12-16T22:09:50.657000+00:00",
       "department": "Consumer Devices",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662639+00:00",
+      "first_seen": "2026-09-19T00:43:47.698896+00:00",
       "id": "7fe84a07dc02a914"
     },
     "7ee85922eea36bb1": {
@@ -791,7 +856,7 @@
       "posted_at": "2025-12-23T19:55:55.803000+00:00",
       "department": "Consumer Devices",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662649+00:00",
+      "first_seen": "2026-09-19T00:43:47.698901+00:00",
       "id": "7ee85922eea36bb1"
     },
     "c8e90e62ac1b63c8": {
@@ -804,7 +869,7 @@
       "posted_at": "2026-01-08T06:26:36.986000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662686+00:00",
+      "first_seen": "2026-09-19T00:43:47.698922+00:00",
       "id": "c8e90e62ac1b63c8"
     },
     "b89ed4d8138bc1d8": {
@@ -817,7 +882,7 @@
       "posted_at": "2026-01-07T00:26:31.038000+00:00",
       "department": "User Operations",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662691+00:00",
+      "first_seen": "2026-09-19T00:43:47.698926+00:00",
       "id": "b89ed4d8138bc1d8"
     },
     "449ff4797bc55065": {
@@ -830,7 +895,7 @@
       "posted_at": "2026-01-09T23:30:34.487000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662705+00:00",
+      "first_seen": "2026-09-19T00:43:47.698933+00:00",
       "id": "449ff4797bc55065"
     },
     "9f1d1457eea2bc72": {
@@ -843,7 +908,7 @@
       "posted_at": "2026-09-12T16:54:37.776000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662731+00:00",
+      "first_seen": "2026-09-19T00:43:47.698949+00:00",
       "id": "9f1d1457eea2bc72"
     },
     "95dfa9459fb7ba85": {
@@ -856,7 +921,7 @@
       "posted_at": "2026-05-25T19:44:52.128000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662749+00:00",
+      "first_seen": "2026-09-19T00:43:47.698958+00:00",
       "id": "95dfa9459fb7ba85"
     },
     "bbac0394bd55c2ee": {
@@ -869,8 +934,21 @@
       "posted_at": "2026-01-23T20:40:53.338000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662797+00:00",
+      "first_seen": "2026-09-19T00:43:47.698985+00:00",
       "id": "bbac0394bd55c2ee"
+    },
+    "22444d6aee9100d4": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Platform Systems",
+      "url": "https://jobs.ashbyhq.com/openai/4349f80b-3518-4e4d-b9eb-3e5e9b490cc7",
+      "location": "London, UK",
+      "remote": null,
+      "posted_at": "2026-01-23T20:41:02.986000+00:00",
+      "department": "Scaling",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.698988+00:00",
+      "id": "22444d6aee9100d4"
     },
     "b6c3807e8519b690": {
       "source": "ashby",
@@ -882,7 +960,7 @@
       "posted_at": "2026-07-25T00:12:56.921000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662920+00:00",
+      "first_seen": "2026-09-19T00:43:47.699054+00:00",
       "id": "b6c3807e8519b690"
     },
     "48f4db23bb7e9591": {
@@ -895,7 +973,7 @@
       "posted_at": "2026-03-04T23:03:50.161000+00:00",
       "department": "Forward Deployed Engineering",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662951+00:00",
+      "first_seen": "2026-09-19T00:43:47.699071+00:00",
       "id": "48f4db23bb7e9591"
     },
     "71d83e5afab56f2a": {
@@ -908,7 +986,7 @@
       "posted_at": "2026-05-04T18:54:22.168000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662965+00:00",
+      "first_seen": "2026-09-19T00:43:47.699079+00:00",
       "id": "71d83e5afab56f2a"
     },
     "40ebc3d5d010a276": {
@@ -921,7 +999,7 @@
       "posted_at": "2026-03-18T21:25:49.295000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.662994+00:00",
+      "first_seen": "2026-09-19T00:43:47.699096+00:00",
       "id": "40ebc3d5d010a276"
     },
     "74bab66b558abd74": {
@@ -934,7 +1012,7 @@
       "posted_at": "2026-03-17T00:54:56.512000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663019+00:00",
+      "first_seen": "2026-09-19T00:43:47.699109+00:00",
       "id": "74bab66b558abd74"
     },
     "242e25b4a4a79ce2": {
@@ -947,7 +1025,7 @@
       "posted_at": "2026-03-17T00:56:17.258000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663023+00:00",
+      "first_seen": "2026-09-19T00:43:47.699112+00:00",
       "id": "242e25b4a4a79ce2"
     },
     "df251f9d3140bea7": {
@@ -960,7 +1038,7 @@
       "posted_at": "2026-03-26T17:11:13.067000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663028+00:00",
+      "first_seen": "2026-09-19T00:43:47.699115+00:00",
       "id": "df251f9d3140bea7"
     },
     "a490e668026804c1": {
@@ -973,7 +1051,7 @@
       "posted_at": "2026-04-11T00:55:07.116000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663078+00:00",
+      "first_seen": "2026-09-19T00:43:47.699145+00:00",
       "id": "a490e668026804c1"
     },
     "33550007e83e06d9": {
@@ -986,7 +1064,7 @@
       "posted_at": "2026-03-28T00:39:41.241000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663082+00:00",
+      "first_seen": "2026-09-19T00:43:47.699147+00:00",
       "id": "33550007e83e06d9"
     },
     "d92cb24bce792fc5": {
@@ -999,7 +1077,7 @@
       "posted_at": "2026-04-14T15:52:27.521000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663134+00:00",
+      "first_seen": "2026-09-19T00:43:47.699175+00:00",
       "id": "d92cb24bce792fc5"
     },
     "e33b74ede0fa7b90": {
@@ -1012,7 +1090,7 @@
       "posted_at": "2026-04-16T20:19:34.599000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663173+00:00",
+      "first_seen": "2026-09-19T00:43:47.699201+00:00",
       "id": "e33b74ede0fa7b90"
     },
     "4e9f7a0de7300d4a": {
@@ -1025,7 +1103,7 @@
       "posted_at": "2026-04-17T16:45:35.079000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663177+00:00",
+      "first_seen": "2026-09-19T00:43:47.699203+00:00",
       "id": "4e9f7a0de7300d4a"
     },
     "85ef9675b532994b": {
@@ -1038,7 +1116,7 @@
       "posted_at": "2025-10-16T22:12:57.383000+00:00",
       "department": "Consumer Devices",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663193+00:00",
+      "first_seen": "2026-09-19T00:43:47.699213+00:00",
       "id": "85ef9675b532994b"
     },
     "517254b0e43c97df": {
@@ -1051,7 +1129,7 @@
       "posted_at": "2026-06-17T22:34:56.814000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663265+00:00",
+      "first_seen": "2026-09-19T00:43:47.699255+00:00",
       "id": "517254b0e43c97df"
     },
     "5a201d5b41323f06": {
@@ -1064,7 +1142,7 @@
       "posted_at": "2026-04-25T02:24:38.573000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663273+00:00",
+      "first_seen": "2026-09-19T00:43:47.699261+00:00",
       "id": "5a201d5b41323f06"
     },
     "f12dcb063740fcf1": {
@@ -1077,7 +1155,7 @@
       "posted_at": "2026-04-27T19:55:27.406000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663277+00:00",
+      "first_seen": "2026-09-19T00:43:47.699264+00:00",
       "id": "f12dcb063740fcf1"
     },
     "095b22f39a459358": {
@@ -1090,7 +1168,7 @@
       "posted_at": "2026-08-14T23:27:55.134000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663281+00:00",
+      "first_seen": "2026-09-19T00:43:47.699266+00:00",
       "id": "095b22f39a459358"
     },
     "5d5ffcf2822525e3": {
@@ -1103,7 +1181,7 @@
       "posted_at": "2026-04-28T23:13:37.790000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663286+00:00",
+      "first_seen": "2026-09-19T00:43:47.699270+00:00",
       "id": "5d5ffcf2822525e3"
     },
     "9b358d3274026ebc": {
@@ -1116,7 +1194,7 @@
       "posted_at": "2026-05-22T17:13:50.417000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663290+00:00",
+      "first_seen": "2026-09-19T00:43:47.699272+00:00",
       "id": "9b358d3274026ebc"
     },
     "347568449d2cfbdb": {
@@ -1129,7 +1207,7 @@
       "posted_at": "2026-04-29T20:36:15.860000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663295+00:00",
+      "first_seen": "2026-09-19T00:43:47.699275+00:00",
       "id": "347568449d2cfbdb"
     },
     "3edcd90def15c6f6": {
@@ -1142,7 +1220,7 @@
       "posted_at": "2026-05-07T18:51:08.865000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663328+00:00",
+      "first_seen": "2026-09-19T00:43:47.699294+00:00",
       "id": "3edcd90def15c6f6"
     },
     "0ac6d6f210f251ea": {
@@ -1155,7 +1233,7 @@
       "posted_at": "2026-05-07T19:45:42.110000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663332+00:00",
+      "first_seen": "2026-09-19T00:43:47.699297+00:00",
       "id": "0ac6d6f210f251ea"
     },
     "2560371e61aa7863": {
@@ -1168,7 +1246,7 @@
       "posted_at": "2026-05-07T19:34:12.438000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663337+00:00",
+      "first_seen": "2026-09-19T00:43:47.699299+00:00",
       "id": "2560371e61aa7863"
     },
     "3e23a6afe7641e10": {
@@ -1181,7 +1259,7 @@
       "posted_at": "2026-05-06T23:09:35.505000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663341+00:00",
+      "first_seen": "2026-09-19T00:43:47.699302+00:00",
       "id": "3e23a6afe7641e10"
     },
     "3d2adaaf5357be19": {
@@ -1194,7 +1272,7 @@
       "posted_at": "2026-05-10T17:33:59.627000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663370+00:00",
+      "first_seen": "2026-09-19T00:43:47.699317+00:00",
       "id": "3d2adaaf5357be19"
     },
     "b656f23c96f8dc1d": {
@@ -1207,7 +1285,7 @@
       "posted_at": "2026-08-21T17:12:26.509000+00:00",
       "department": "Core Product & Platform",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663430+00:00",
+      "first_seen": "2026-09-19T00:43:47.699403+00:00",
       "id": "b656f23c96f8dc1d"
     },
     "a9756477438a795a": {
@@ -1220,7 +1298,7 @@
       "posted_at": "2026-05-22T20:36:52.852000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663463+00:00",
+      "first_seen": "2026-09-19T00:43:47.699421+00:00",
       "id": "a9756477438a795a"
     },
     "0df687344fe22e9c": {
@@ -1233,7 +1311,7 @@
       "posted_at": "2026-05-26T17:18:15.004000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663488+00:00",
+      "first_seen": "2026-09-19T00:43:47.699440+00:00",
       "id": "0df687344fe22e9c"
     },
     "6d62e96bf430c13b": {
@@ -1246,7 +1324,7 @@
       "posted_at": "2026-06-01T22:36:47.461000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663540+00:00",
+      "first_seen": "2026-09-19T00:43:47.699474+00:00",
       "id": "6d62e96bf430c13b"
     },
     "6ead975d6683a0f7": {
@@ -1259,7 +1337,7 @@
       "posted_at": "2026-06-03T16:55:05.751000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663578+00:00",
+      "first_seen": "2026-09-19T00:43:47.699497+00:00",
       "id": "6ead975d6683a0f7"
     },
     "377803c0e604f804": {
@@ -1272,7 +1350,7 @@
       "posted_at": "2026-06-04T21:16:59.213000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663586+00:00",
+      "first_seen": "2026-09-19T00:43:47.699502+00:00",
       "id": "377803c0e604f804"
     },
     "f19a453b608694f5": {
@@ -1285,7 +1363,7 @@
       "posted_at": "2026-06-06T02:40:17.581000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663590+00:00",
+      "first_seen": "2026-09-19T00:43:47.699504+00:00",
       "id": "f19a453b608694f5"
     },
     "ea4cbde59965b0f5": {
@@ -1298,7 +1376,7 @@
       "posted_at": "2026-06-10T19:57:54.896000+00:00",
       "department": "Core Product & Platform",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663618+00:00",
+      "first_seen": "2026-09-19T00:43:47.699524+00:00",
       "id": "ea4cbde59965b0f5"
     },
     "6269dd90c14b5b49": {
@@ -1311,7 +1389,7 @@
       "posted_at": "2026-06-25T17:02:07.525000+00:00",
       "department": "Core Product & Platform",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663635+00:00",
+      "first_seen": "2026-09-19T00:43:47.699534+00:00",
       "id": "6269dd90c14b5b49"
     },
     "5b814d1715ec34c1": {
@@ -1324,7 +1402,7 @@
       "posted_at": "2026-06-12T18:54:06.880000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663639+00:00",
+      "first_seen": "2026-09-19T00:43:47.699537+00:00",
       "id": "5b814d1715ec34c1"
     },
     "b0a3775ffc90526c": {
@@ -1337,7 +1415,7 @@
       "posted_at": "2026-06-08T23:42:40.083000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663659+00:00",
+      "first_seen": "2026-09-19T00:43:47.699549+00:00",
       "id": "b0a3775ffc90526c"
     },
     "1ae98953209dff73": {
@@ -1350,7 +1428,7 @@
       "posted_at": "2026-09-11T17:11:59.523000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663679+00:00",
+      "first_seen": "2026-09-19T00:43:47.699560+00:00",
       "id": "1ae98953209dff73"
     },
     "7b60bc5e40213bd3": {
@@ -1363,7 +1441,7 @@
       "posted_at": "2026-06-09T18:38:49.181000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663684+00:00",
+      "first_seen": "2026-09-19T00:43:47.699562+00:00",
       "id": "7b60bc5e40213bd3"
     },
     "f6e77c39ddb7f5b9": {
@@ -1376,7 +1454,7 @@
       "posted_at": "2026-06-11T17:52:46.065000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663696+00:00",
+      "first_seen": "2026-09-19T00:43:47.699572+00:00",
       "id": "f6e77c39ddb7f5b9"
     },
     "892f01ef587b4ea0": {
@@ -1389,7 +1467,7 @@
       "posted_at": "2026-06-11T23:07:02.457000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663704+00:00",
+      "first_seen": "2026-09-19T00:43:47.699576+00:00",
       "id": "892f01ef587b4ea0"
     },
     "cfbbaa9e78930707": {
@@ -1402,7 +1480,7 @@
       "posted_at": "2026-08-20T22:28:11.915000+00:00",
       "department": "Consumer Devices",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663708+00:00",
+      "first_seen": "2026-09-19T00:43:47.699579+00:00",
       "id": "cfbbaa9e78930707"
     },
     "be26d14597a7349e": {
@@ -1415,7 +1493,7 @@
       "posted_at": "2026-06-15T18:16:20.513000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663731+00:00",
+      "first_seen": "2026-09-19T00:43:47.699594+00:00",
       "id": "be26d14597a7349e"
     },
     "cb8309b7e318a234": {
@@ -1428,7 +1506,7 @@
       "posted_at": "2026-06-29T00:06:01.652000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663858+00:00",
+      "first_seen": "2026-09-19T00:43:47.699670+00:00",
       "id": "cb8309b7e318a234"
     },
     "e459eea5b6537191": {
@@ -1441,7 +1519,7 @@
       "posted_at": "2026-07-09T22:15:49.719000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663924+00:00",
+      "first_seen": "2026-09-19T00:43:47.699715+00:00",
       "id": "e459eea5b6537191"
     },
     "f5d888b13cc17284": {
@@ -1454,8 +1532,21 @@
       "posted_at": "2026-07-07T05:36:29.100000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663928+00:00",
+      "first_seen": "2026-09-19T00:43:47.699717+00:00",
       "id": "f5d888b13cc17284"
+    },
+    "0fb63081b41776eb": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Model Deployment- ChatGPT Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b",
+      "location": "London, UK",
+      "remote": true,
+      "posted_at": "2026-08-17T16:45:16.766000+00:00",
+      "department": "Applied AI",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.699726+00:00",
+      "id": "0fb63081b41776eb"
     },
     "a3cde237db0ce968": {
       "source": "ashby",
@@ -1467,7 +1558,7 @@
       "posted_at": "2026-07-13T19:27:13.459000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.663945+00:00",
+      "first_seen": "2026-09-19T00:43:47.699729+00:00",
       "id": "a3cde237db0ce968"
     },
     "78a92ae8bdc6a464": {
@@ -1480,7 +1571,7 @@
       "posted_at": "2026-09-14T18:34:43.801000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664089+00:00",
+      "first_seen": "2026-09-19T00:43:47.699817+00:00",
       "id": "78a92ae8bdc6a464"
     },
     "4fd386b997268cc7": {
@@ -1493,7 +1584,7 @@
       "posted_at": "2026-07-23T18:43:09.820000+00:00",
       "department": "Security",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664165+00:00",
+      "first_seen": "2026-09-19T00:43:47.699866+00:00",
       "id": "4fd386b997268cc7"
     },
     "ebde3ced640aafdd": {
@@ -1506,7 +1597,7 @@
       "posted_at": "2026-08-24T18:51:59.391000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664190+00:00",
+      "first_seen": "2026-09-19T00:43:47.699882+00:00",
       "id": "ebde3ced640aafdd"
     },
     "f3ac5d6882e34c46": {
@@ -1519,8 +1610,34 @@
       "posted_at": "2026-08-04T16:40:08.911000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664246+00:00",
+      "first_seen": "2026-09-19T00:43:47.699915+00:00",
       "id": "f3ac5d6882e34c46"
+    },
+    "85739fb21c5f4f4f": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Privacy Engineering (Lawful Access)",
+      "url": "https://jobs.ashbyhq.com/openai/118b71ad-0daa-497d-9061-68e90ea03368",
+      "location": "London, UK",
+      "remote": null,
+      "posted_at": "2026-07-23T20:31:24.454000+00:00",
+      "department": "Security",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.699918+00:00",
+      "id": "85739fb21c5f4f4f"
+    },
+    "66fb0ab86388f370": {
+      "source": "ashby",
+      "company": "OpenAI",
+      "title": "Software Engineer, Privacy Engineering (Lawful Access)",
+      "url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
+      "location": "Dublin, Ireland",
+      "remote": null,
+      "posted_at": "2026-07-23T20:33:49.718000+00:00",
+      "department": "Security",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:47.699920+00:00",
+      "id": "66fb0ab86388f370"
     },
     "e9eb6c78d02efffd": {
       "source": "ashby",
@@ -1532,7 +1649,7 @@
       "posted_at": "2026-07-25T00:11:32.458000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664287+00:00",
+      "first_seen": "2026-09-19T00:43:47.699942+00:00",
       "id": "e9eb6c78d02efffd"
     },
     "30b4b5a76e65659b": {
@@ -1545,7 +1662,7 @@
       "posted_at": "2026-07-27T20:24:02.974000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664295+00:00",
+      "first_seen": "2026-09-19T00:43:47.699947+00:00",
       "id": "30b4b5a76e65659b"
     },
     "dc5b450c3831f125": {
@@ -1558,7 +1675,7 @@
       "posted_at": "2026-07-29T16:55:22.704000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664312+00:00",
+      "first_seen": "2026-09-19T00:43:47.699956+00:00",
       "id": "dc5b450c3831f125"
     },
     "87e843613dedf21f": {
@@ -1571,7 +1688,7 @@
       "posted_at": "2026-07-31T22:55:40.169000+00:00",
       "department": "Core Product & Platform",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664378+00:00",
+      "first_seen": "2026-09-19T00:43:47.699993+00:00",
       "id": "87e843613dedf21f"
     },
     "3f84d4dfd0336c7b": {
@@ -1584,7 +1701,7 @@
       "posted_at": "2026-08-05T21:59:31.333000+00:00",
       "department": "Core Product & Platform",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664395+00:00",
+      "first_seen": "2026-09-19T00:43:47.700003+00:00",
       "id": "3f84d4dfd0336c7b"
     },
     "648ca433f19254be": {
@@ -1597,7 +1714,7 @@
       "posted_at": "2026-08-06T23:42:09.138000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664493+00:00",
+      "first_seen": "2026-09-19T00:43:47.700063+00:00",
       "id": "648ca433f19254be"
     },
     "8591801ea98fe442": {
@@ -1610,7 +1727,7 @@
       "posted_at": "2026-08-13T16:31:47.234000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664581+00:00",
+      "first_seen": "2026-09-19T00:43:47.700117+00:00",
       "id": "8591801ea98fe442"
     },
     "fe90b676497bc45b": {
@@ -1623,7 +1740,7 @@
       "posted_at": "2026-08-11T19:23:49.234000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664587+00:00",
+      "first_seen": "2026-09-19T00:43:47.700119+00:00",
       "id": "fe90b676497bc45b"
     },
     "36bae86e93dbfd60": {
@@ -1636,7 +1753,7 @@
       "posted_at": "2026-08-18T19:12:23.311000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664808+00:00",
+      "first_seen": "2026-09-19T00:43:47.700259+00:00",
       "id": "36bae86e93dbfd60"
     },
     "ef5ca116a3af401d": {
@@ -1649,7 +1766,7 @@
       "posted_at": "2026-08-24T18:48:55.627000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664842+00:00",
+      "first_seen": "2026-09-19T00:43:47.700284+00:00",
       "id": "ef5ca116a3af401d"
     },
     "1885917cb8a85bd4": {
@@ -1662,7 +1779,7 @@
       "posted_at": "2026-08-24T16:34:31.338000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.664871+00:00",
+      "first_seen": "2026-09-19T00:43:47.700302+00:00",
       "id": "1885917cb8a85bd4"
     },
     "79fe374ac8f4b381": {
@@ -1675,7 +1792,7 @@
       "posted_at": "2026-09-03T19:51:26.815000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665050+00:00",
+      "first_seen": "2026-09-19T00:43:47.700409+00:00",
       "id": "79fe374ac8f4b381"
     },
     "755a874003656556": {
@@ -1688,7 +1805,7 @@
       "posted_at": "2026-08-31T19:44:52.442000+00:00",
       "department": "Safety Systems",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665054+00:00",
+      "first_seen": "2026-09-19T00:43:47.700412+00:00",
       "id": "755a874003656556"
     },
     "b64c4bfd83aed868": {
@@ -1701,7 +1818,7 @@
       "posted_at": "2026-09-05T14:19:37.047000+00:00",
       "department": "Security",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665140+00:00",
+      "first_seen": "2026-09-19T00:43:47.700458+00:00",
       "id": "b64c4bfd83aed868"
     },
     "e91d32d93f4b65a9": {
@@ -1714,7 +1831,7 @@
       "posted_at": "2026-09-03T20:29:00.146000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665148+00:00",
+      "first_seen": "2026-09-19T00:43:47.700464+00:00",
       "id": "e91d32d93f4b65a9"
     },
     "e68418ec892a4fdf": {
@@ -1727,7 +1844,7 @@
       "posted_at": "2026-09-04T23:40:07.105000+00:00",
       "department": "Consumer Devices",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665156+00:00",
+      "first_seen": "2026-09-19T00:43:47.700469+00:00",
       "id": "e68418ec892a4fdf"
     },
     "838520c34551ee75": {
@@ -1740,7 +1857,7 @@
       "posted_at": "2026-09-16T00:30:26.055000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665271+00:00",
+      "first_seen": "2026-09-19T00:43:47.700538+00:00",
       "id": "838520c34551ee75"
     },
     "c7354a2098e836e1": {
@@ -1753,7 +1870,7 @@
       "posted_at": "2026-09-10T21:55:04.531000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665275+00:00",
+      "first_seen": "2026-09-19T00:43:47.700541+00:00",
       "id": "c7354a2098e836e1"
     },
     "f5523f2350ecf591": {
@@ -1766,7 +1883,7 @@
       "posted_at": "2026-09-14T22:37:58.189000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665296+00:00",
+      "first_seen": "2026-09-19T00:43:47.700553+00:00",
       "id": "f5523f2350ecf591"
     },
     "a0a786f4fa8034e2": {
@@ -1779,7 +1896,7 @@
       "posted_at": "2026-09-08T23:43:33.720000+00:00",
       "department": "Research",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665308+00:00",
+      "first_seen": "2026-09-19T00:43:47.700561+00:00",
       "id": "a0a786f4fa8034e2"
     },
     "c7d97c79e6573449": {
@@ -1792,7 +1909,7 @@
       "posted_at": "2026-09-15T04:42:58.212000+00:00",
       "department": "Applied AI",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665358+00:00",
+      "first_seen": "2026-09-19T00:43:47.700589+00:00",
       "id": "c7d97c79e6573449"
     },
     "329f9abb284a5755": {
@@ -1805,7 +1922,7 @@
       "posted_at": "2026-09-11T01:36:02.480000+00:00",
       "department": "Core Product & Platform",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665378+00:00",
+      "first_seen": "2026-09-19T00:43:47.700604+00:00",
       "id": "329f9abb284a5755"
     },
     "6f7a4aaa563fe228": {
@@ -1818,8 +1935,21 @@
       "posted_at": "2026-09-16T23:39:23.616000+00:00",
       "department": "Scaling",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:55.665601+00:00",
+      "first_seen": "2026-09-19T00:43:47.700670+00:00",
       "id": "6f7a4aaa563fe228"
+    },
+    "afd7e589a428a8b8": {
+      "source": "ashby",
+      "company": "Cohere",
+      "title": "Software Engineer, North for Finance",
+      "url": "https://jobs.ashbyhq.com/cohere/f722247c-291b-44ee-af67-5159b8d5d9b9",
+      "location": "Europe",
+      "remote": true,
+      "posted_at": "2026-06-16T17:48:09.602000+00:00",
+      "department": "Engineering & Infra",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:48.157215+00:00",
+      "id": "afd7e589a428a8b8"
     },
     "02f0d88cda97a765": {
       "source": "ashby",
@@ -1831,8 +1961,47 @@
       "posted_at": "2026-05-14T19:24:12.210000+00:00",
       "department": "Engineering & Infra",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:56.506080+00:00",
+      "first_seen": "2026-09-19T00:43:48.157220+00:00",
       "id": "02f0d88cda97a765"
+    },
+    "d5458e235e9da196": {
+      "source": "ashby",
+      "company": "Cohere",
+      "title": "Software Engineer, Agents & Automations",
+      "url": "https://jobs.ashbyhq.com/cohere/4a3c3eb2-ae2e-4a86-a677-7bdecbc7d76e",
+      "location": "London",
+      "remote": true,
+      "posted_at": "2026-06-15T13:58:21.357000+00:00",
+      "department": "Engineering & Infra",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:48.157246+00:00",
+      "id": "d5458e235e9da196"
+    },
+    "609dc9ac306a2c51": {
+      "source": "ashby",
+      "company": "Cohere",
+      "title": "Software Engineer, Adoption",
+      "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
+      "location": "Toronto",
+      "remote": true,
+      "posted_at": "2026-06-19T09:49:24.685000+00:00",
+      "department": "Engineering & Infra",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:48.157250+00:00",
+      "id": "609dc9ac306a2c51"
+    },
+    "b8792f1cf87c2738": {
+      "source": "ashby",
+      "company": "Cohere",
+      "title": "Software Engineer, Integrations",
+      "url": "https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8",
+      "location": "Europe",
+      "remote": true,
+      "posted_at": "2026-08-11T10:41:22.845000+00:00",
+      "department": "Engineering & Infra",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:48.157336+00:00",
+      "id": "b8792f1cf87c2738"
     },
     "2e45e8425efc235e": {
       "source": "ashby",
@@ -1844,8 +2013,21 @@
       "posted_at": "2026-09-14T13:15:03.461000+00:00",
       "department": "Engineering & Infra",
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:56.506615+00:00",
+      "first_seen": "2026-09-19T00:43:48.157403+00:00",
       "id": "2e45e8425efc235e"
+    },
+    "78bb5a710e5dbb2e": {
+      "source": "ashby",
+      "company": "Cohere",
+      "title": "Software Engineer, Security",
+      "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
+      "location": "Toronto",
+      "remote": true,
+      "posted_at": "2026-09-17T19:46:04.566000+00:00",
+      "department": "Engineering & Infra",
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:48.157410+00:00",
+      "id": "78bb5a710e5dbb2e"
     },
     "2a0e90e21ab5ff32": {
       "source": "greenhouse",
@@ -1857,7 +2039,7 @@
       "posted_at": "2026-09-18T15:45:25+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:57.713492+00:00",
+      "first_seen": "2026-09-19T00:43:48.903531+00:00",
       "id": "2a0e90e21ab5ff32"
     },
     "8214b35046d27e2c": {
@@ -1870,8 +2052,21 @@
       "posted_at": "2026-09-18T23:20:47+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:02:59.856231+00:00",
+      "first_seen": "2026-09-19T00:43:50.919391+00:00",
       "id": "8214b35046d27e2c"
+    },
+    "ae468b91f43f4bf6": {
+      "source": "greenhouse",
+      "company": "Duolingo",
+      "title": "Software Engineer I, iOS, Growth",
+      "url": "https://careers.duolingo.com/jobs/8612080002?gh_jid=8612080002",
+      "location": "Beijing, China",
+      "remote": null,
+      "posted_at": "2026-08-19T10:33:04+00:00",
+      "department": null,
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:51.585633+00:00",
+      "id": "ae468b91f43f4bf6"
     },
     "216f86eca86fa78d": {
       "source": "greenhouse",
@@ -1883,7 +2078,7 @@
       "posted_at": "2026-08-14T14:13:12+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.136624+00:00",
+      "first_seen": "2026-09-19T00:43:52.426638+00:00",
       "id": "216f86eca86fa78d"
     },
     "336c20ae2ae31f5f": {
@@ -1896,8 +2091,21 @@
       "posted_at": "2026-07-10T20:06:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.136825+00:00",
+      "first_seen": "2026-09-19T00:43:52.426754+00:00",
       "id": "336c20ae2ae31f5f"
+    },
+    "ed67d35daf0e21bd": {
+      "source": "greenhouse",
+      "company": "IXL Learning",
+      "title": "Software Developer, New Grad",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
+      "location": "Toronto, ON, Canada",
+      "remote": null,
+      "posted_at": "2026-08-31T21:03:22+00:00",
+      "department": null,
+      "priority": 2,
+      "first_seen": "2026-09-19T00:43:52.426885+00:00",
+      "id": "ed67d35daf0e21bd"
     },
     "4095d370a0033a0a": {
       "source": "greenhouse",
@@ -1909,7 +2117,7 @@
       "posted_at": "2026-07-31T13:54:16+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137088+00:00",
+      "first_seen": "2026-09-19T00:43:52.426890+00:00",
       "id": "4095d370a0033a0a"
     },
     "4f9717276998de98": {
@@ -1922,7 +2130,7 @@
       "posted_at": "2026-07-10T20:06:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137093+00:00",
+      "first_seen": "2026-09-19T00:43:52.426901+00:00",
       "id": "4f9717276998de98"
     },
     "ba7f8d49103d4849": {
@@ -1935,7 +2143,7 @@
       "posted_at": "2026-07-10T20:06:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137098+00:00",
+      "first_seen": "2026-09-19T00:43:52.426904+00:00",
       "id": "ba7f8d49103d4849"
     },
     "2a53a899ae1c607d": {
@@ -1948,7 +2156,7 @@
       "posted_at": "2026-07-10T20:06:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137103+00:00",
+      "first_seen": "2026-09-19T00:43:52.426907+00:00",
       "id": "2a53a899ae1c607d"
     },
     "51c649031e57fd26": {
@@ -1961,7 +2169,7 @@
       "posted_at": "2026-07-10T20:06:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137108+00:00",
+      "first_seen": "2026-09-19T00:43:52.426909+00:00",
       "id": "51c649031e57fd26"
     },
     "a7389061546d4d0e": {
@@ -1974,7 +2182,7 @@
       "posted_at": "2026-08-31T21:03:46+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137123+00:00",
+      "first_seen": "2026-09-19T00:43:52.426916+00:00",
       "id": "a7389061546d4d0e"
     },
     "ebb13f4ce9986359": {
@@ -1987,7 +2195,7 @@
       "posted_at": "2026-08-31T21:03:34+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137128+00:00",
+      "first_seen": "2026-09-19T00:43:52.426919+00:00",
       "id": "ebb13f4ce9986359"
     },
     "76fa39a867c55f11": {
@@ -2000,7 +2208,7 @@
       "posted_at": "2026-07-10T20:06:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137132+00:00",
+      "first_seen": "2026-09-19T00:43:52.426921+00:00",
       "id": "76fa39a867c55f11"
     },
     "db6e86f389925fb4": {
@@ -2013,7 +2221,7 @@
       "posted_at": "2026-07-10T20:06:06+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:02.137137+00:00",
+      "first_seen": "2026-09-19T00:43:52.426924+00:00",
       "id": "db6e86f389925fb4"
     },
     "7cfd34b55c6e24ca": {
@@ -2026,8 +2234,47 @@
       "posted_at": "2026-08-31T12:15:21+00:00",
       "department": null,
       "priority": 2,
-      "first_seen": "2026-09-19T01:03:03.339275+00:00",
+      "first_seen": "2026-09-19T00:43:53.044223+00:00",
       "id": "7cfd34b55c6e24ca"
+    },
+    "73ff502cf4469966": {
+      "source": "greenhouse",
+      "company": "Airbnb",
+      "title": "Mobile Software Engineer, Quality Platform",
+      "url": "https://careers.airbnb.com/positions/8189374?gh_jid=8189374",
+      "location": "Brazil",
+      "remote": null,
+      "posted_at": "2026-09-18T08:55:55+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.373980+00:00",
+      "id": "73ff502cf4469966"
+    },
+    "bddaf2387d610ea4": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Full Stack Software Engineer, Brazil",
+      "url": "https://stripe.com/jobs/search?gh_jid=7895284",
+      "location": "Sao Paulo",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772113+00:00",
+      "id": "bddaf2387d610ea4"
+    },
+    "5ce0ead32a33f3ef": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7544547",
+      "location": "Mexico City, Mexico",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772364+00:00",
+      "id": "5ce0ead32a33f3ef"
     },
     "5a5b1d19444fdb2b": {
       "source": "greenhouse",
@@ -2039,7 +2286,7 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476909+00:00",
+      "first_seen": "2026-09-19T00:43:55.772845+00:00",
       "id": "5a5b1d19444fdb2b"
     },
     "e7ead3aa23367cb6": {
@@ -2052,7 +2299,7 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476914+00:00",
+      "first_seen": "2026-09-19T00:43:55.772848+00:00",
       "id": "e7ead3aa23367cb6"
     },
     "560032e026269fea": {
@@ -2065,7 +2312,7 @@
       "posted_at": "2026-09-14T22:11:13+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476919+00:00",
+      "first_seen": "2026-09-19T00:43:55.772850+00:00",
       "id": "560032e026269fea"
     },
     "94a2773f26249864": {
@@ -2078,7 +2325,7 @@
       "posted_at": "2026-09-18T04:13:40+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476925+00:00",
+      "first_seen": "2026-09-19T00:43:55.772854+00:00",
       "id": "94a2773f26249864"
     },
     "6f61654f19aa61fb": {
@@ -2091,8 +2338,34 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476929+00:00",
+      "first_seen": "2026-09-19T00:43:55.772857+00:00",
       "id": "6f61654f19aa61fb"
+    },
+    "4b60223659315ba7": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Connect Tax Reporting",
+      "url": "https://stripe.com/jobs/search?gh_jid=8078337",
+      "location": "Bucharest, Romania",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772860+00:00",
+      "id": "4b60223659315ba7"
+    },
+    "6ab35d6ed2388a20": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Core Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=7975725",
+      "location": "Sydney, Australia",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772862+00:00",
+      "id": "6ab35d6ed2388a20"
     },
     "a9fe41e5bd80085a": {
       "source": "greenhouse",
@@ -2104,7 +2377,7 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476944+00:00",
+      "first_seen": "2026-09-19T00:43:55.772865+00:00",
       "id": "a9fe41e5bd80085a"
     },
     "aed241bad2061d74": {
@@ -2117,8 +2390,21 @@
       "posted_at": "2026-09-17T23:28:54+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476949+00:00",
+      "first_seen": "2026-09-19T00:43:55.772867+00:00",
       "id": "aed241bad2061d74"
+    },
+    "25495bad76dd728a": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Early Career — Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+      "location": "Toronto",
+      "remote": null,
+      "posted_at": "2026-09-17T23:35:28+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772870+00:00",
+      "id": "25495bad76dd728a"
     },
     "78a0ba4b76b8d64a": {
       "source": "greenhouse",
@@ -2130,8 +2416,73 @@
       "posted_at": "2026-09-14T21:21:04+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.476959+00:00",
+      "first_seen": "2026-09-19T00:43:55.772872+00:00",
       "id": "78a0ba4b76b8d64a"
+    },
+    "aed0103bd3e4d57b": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737237",
+      "location": "Toronto, Vancouver, Canada-Remote",
+      "remote": true,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772894+00:00",
+      "id": "aed0103bd3e4d57b"
+    },
+    "3a44212f684948b9": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Money Movement",
+      "url": "https://stripe.com/jobs/search?gh_jid=7208537",
+      "location": "London",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772897+00:00",
+      "id": "3a44212f684948b9"
+    },
+    "1f7315043ed0ee5e": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130930",
+      "location": "London",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772900+00:00",
+      "id": "1f7315043ed0ee5e"
+    },
+    "315dec9b6596b3a2": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130922",
+      "location": "Bucharest",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772903+00:00",
+      "id": "315dec9b6596b3a2"
+    },
+    "8fdf45613f24f3af": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130881",
+      "location": "Dublin",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772905+00:00",
+      "id": "8fdf45613f24f3af"
     },
     "88eeba53d8ec50c0": {
       "source": "greenhouse",
@@ -2143,8 +2494,47 @@
       "posted_at": "2026-09-17T23:06:55+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.477025+00:00",
+      "first_seen": "2026-09-19T00:43:55.772908+00:00",
       "id": "88eeba53d8ec50c0"
+    },
+    "1bd4bad6894b0c84": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+      "location": "Toronto",
+      "remote": null,
+      "posted_at": "2026-09-17T23:34:47+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772910+00:00",
+      "id": "1bd4bad6894b0c84"
+    },
+    "d30b0e0d8682264f": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=8160776",
+      "location": "Singapore",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772912+00:00",
+      "id": "d30b0e0d8682264f"
+    },
+    "3bd5c85fb444fcc4": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad - Frontend",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130927",
+      "location": "Barcelona",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772915+00:00",
+      "id": "3bd5c85fb444fcc4"
     },
     "8e14131754fcc7a2": {
       "source": "greenhouse",
@@ -2156,7 +2546,7 @@
       "posted_at": "2026-09-11T20:59:16+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.477044+00:00",
+      "first_seen": "2026-09-19T00:43:55.772918+00:00",
       "id": "8e14131754fcc7a2"
     },
     "ef2edb9990e8f05d": {
@@ -2169,8 +2559,34 @@
       "posted_at": "2026-09-14T21:46:08+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.477049+00:00",
+      "first_seen": "2026-09-19T00:43:55.772921+00:00",
       "id": "ef2edb9990e8f05d"
+    },
+    "4a7e2628628aa696": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Payments",
+      "url": "https://stripe.com/jobs/search?gh_jid=7529787",
+      "location": "Singapore",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772923+00:00",
+      "id": "4a7e2628628aa696"
+    },
+    "a66777a08a53a15f": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Payments and Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=6717520",
+      "location": "Dublin, Ireland",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772926+00:00",
+      "id": "a66777a08a53a15f"
     },
     "4a99f37b2f17cce2": {
       "source": "greenhouse",
@@ -2182,7 +2598,7 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.477063+00:00",
+      "first_seen": "2026-09-19T00:43:55.772928+00:00",
       "id": "4a99f37b2f17cce2"
     },
     "f7bc6a0ab5b07bf9": {
@@ -2195,7 +2611,7 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.477068+00:00",
+      "first_seen": "2026-09-19T00:43:55.772930+00:00",
       "id": "f7bc6a0ab5b07bf9"
     },
     "f37f9b37c2b10512": {
@@ -2208,8 +2624,21 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.477073+00:00",
+      "first_seen": "2026-09-19T00:43:55.772933+00:00",
       "id": "f37f9b37c2b10512"
+    },
+    "8dd33486e1f50b74": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Software Engineer, Stripe Tax",
+      "url": "https://stripe.com/jobs/search?gh_jid=8076626",
+      "location": "Dublin, Ireland",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.772935+00:00",
+      "id": "8dd33486e1f50b74"
     },
     "630f095357d7070a": {
       "source": "greenhouse",
@@ -2221,8 +2650,21 @@
       "posted_at": "2026-09-10T17:11:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:07.477082+00:00",
+      "first_seen": "2026-09-19T00:43:55.772938+00:00",
       "id": "630f095357d7070a"
+    },
+    "89735408d7cb5787": {
+      "source": "greenhouse",
+      "company": "Stripe",
+      "title": "Tech Operations Associate, New Grad (Mexico)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7718947",
+      "location": "Mexico City, Mexico",
+      "remote": null,
+      "posted_at": "2026-09-10T17:11:58+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:55.773203+00:00",
+      "id": "89735408d7cb5787"
     },
     "592382cb9bc0f96b": {
       "source": "greenhouse",
@@ -2234,7 +2676,7 @@
       "posted_at": "2026-09-10T07:03:06+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:08.404831+00:00",
+      "first_seen": "2026-09-19T00:43:56.176258+00:00",
       "id": "592382cb9bc0f96b"
     },
     "f656b840918b93ed": {
@@ -2247,7 +2689,7 @@
       "posted_at": "2026-08-31T21:33:16+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:08.404837+00:00",
+      "first_seen": "2026-09-19T00:43:56.176261+00:00",
       "id": "f656b840918b93ed"
     },
     "8cec5c9c4ea3d51c": {
@@ -2260,7 +2702,7 @@
       "posted_at": "2026-09-15T23:32:33+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:08.404845+00:00",
+      "first_seen": "2026-09-19T00:43:56.176263+00:00",
       "id": "8cec5c9c4ea3d51c"
     },
     "c591a74804d9f31d": {
@@ -2273,7 +2715,7 @@
       "posted_at": "2026-09-04T20:24:12+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:08.404852+00:00",
+      "first_seen": "2026-09-19T00:43:56.176266+00:00",
       "id": "c591a74804d9f31d"
     },
     "08168f9fe9c2f575": {
@@ -2286,8 +2728,34 @@
       "posted_at": "2026-08-31T21:33:33+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:08.404857+00:00",
+      "first_seen": "2026-09-19T00:43:56.176268+00:00",
       "id": "08168f9fe9c2f575"
+    },
+    "204bb9b07184cd38": {
+      "source": "greenhouse",
+      "company": "Dropbox",
+      "title": "Infrastructure Software Engineer",
+      "url": "https://jobs.dropbox.com/listing/6330377?gh_jid=6330377",
+      "location": "Remote - Poland",
+      "remote": true,
+      "posted_at": "2026-09-03T13:40:01+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:56.575811+00:00",
+      "id": "204bb9b07184cd38"
+    },
+    "ef17cf551113880a": {
+      "source": "greenhouse",
+      "company": "Dropbox",
+      "title": "Infrastructure Software Engineer, Metadata Core",
+      "url": "https://jobs.dropbox.com/listing/7958409?gh_jid=7958409",
+      "location": "Remote - Poland",
+      "remote": true,
+      "posted_at": "2026-09-03T13:40:01+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:56.575814+00:00",
+      "id": "ef17cf551113880a"
     },
     "dd4b8563e6096097": {
       "source": "greenhouse",
@@ -2299,7 +2767,7 @@
       "posted_at": "2026-08-12T00:04:09+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684236+00:00",
+      "first_seen": "2026-09-19T00:43:56.920504+00:00",
       "id": "dd4b8563e6096097"
     },
     "71ef43d43537f924": {
@@ -2312,8 +2780,21 @@
       "posted_at": "2026-08-12T00:04:41+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684242+00:00",
+      "first_seen": "2026-09-19T00:43:56.920508+00:00",
       "id": "71ef43d43537f924"
+    },
+    "ed4e6edb00613f03": {
+      "source": "greenhouse",
+      "company": "Figma",
+      "title": "Software Engineer - AI Product (London, United Kingdom)",
+      "url": "https://boards.greenhouse.io/figma/jobs/5551697004?gh_jid=5551697004",
+      "location": "London, England",
+      "remote": null,
+      "posted_at": "2026-08-27T10:24:15+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:56.920511+00:00",
+      "id": "ed4e6edb00613f03"
     },
     "e73e050b049506c4": {
       "source": "greenhouse",
@@ -2325,7 +2806,7 @@
       "posted_at": "2026-08-18T23:32:16+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684256+00:00",
+      "first_seen": "2026-09-19T00:43:56.920514+00:00",
       "id": "e73e050b049506c4"
     },
     "c2bf745817389348": {
@@ -2338,7 +2819,7 @@
       "posted_at": "2026-08-12T00:05:21+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684262+00:00",
+      "first_seen": "2026-09-19T00:43:56.920518+00:00",
       "id": "c2bf745817389348"
     },
     "7377137aeaab7cc9": {
@@ -2351,7 +2832,7 @@
       "posted_at": "2026-08-12T00:06:06+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684269+00:00",
+      "first_seen": "2026-09-19T00:43:56.920522+00:00",
       "id": "7377137aeaab7cc9"
     },
     "742d4398086709a7": {
@@ -2364,7 +2845,7 @@
       "posted_at": "2026-08-12T00:06:40+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684275+00:00",
+      "first_seen": "2026-09-19T00:43:56.920525+00:00",
       "id": "742d4398086709a7"
     },
     "b2e6bb62c8e2ee91": {
@@ -2377,8 +2858,21 @@
       "posted_at": "2026-08-12T00:08:53+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684282+00:00",
+      "first_seen": "2026-09-19T00:43:56.920529+00:00",
       "id": "b2e6bb62c8e2ee91"
+    },
+    "844a10239c44455f": {
+      "source": "greenhouse",
+      "company": "Figma",
+      "title": "Software Engineer - Figma Weave (Tel Aviv, Israel)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6073106004?gh_jid=6073106004",
+      "location": "Tel Aviv, Israel",
+      "remote": null,
+      "posted_at": "2026-07-22T09:37:08+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:56.920533+00:00",
+      "id": "844a10239c44455f"
     },
     "48571607badec044": {
       "source": "greenhouse",
@@ -2390,7 +2884,7 @@
       "posted_at": "2026-08-12T00:07:17+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684295+00:00",
+      "first_seen": "2026-09-19T00:43:56.920537+00:00",
       "id": "48571607badec044"
     },
     "27b66c3d188e95c1": {
@@ -2403,7 +2897,7 @@
       "posted_at": "2026-08-12T00:07:50+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684301+00:00",
+      "first_seen": "2026-09-19T00:43:56.920540+00:00",
       "id": "27b66c3d188e95c1"
     },
     "ab9df4368feb995e": {
@@ -2416,7 +2910,7 @@
       "posted_at": "2026-08-12T00:08:21+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684308+00:00",
+      "first_seen": "2026-09-19T00:43:56.920544+00:00",
       "id": "ab9df4368feb995e"
     },
     "4140793d2bb06b97": {
@@ -2429,7 +2923,7 @@
       "posted_at": "2026-08-12T00:09:33+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684335+00:00",
+      "first_seen": "2026-09-19T00:43:56.920558+00:00",
       "id": "4140793d2bb06b97"
     },
     "98084f717855e214": {
@@ -2442,7 +2936,7 @@
       "posted_at": "2026-08-12T00:09:58+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684341+00:00",
+      "first_seen": "2026-09-19T00:43:56.920561+00:00",
       "id": "98084f717855e214"
     },
     "fdebd3849ad8fe3b": {
@@ -2455,8 +2949,86 @@
       "posted_at": "2026-08-12T00:12:13+00:00",
       "department": null,
       "priority": 1,
-      "first_seen": "2026-09-19T01:03:09.684348+00:00",
+      "first_seen": "2026-09-19T00:43:56.920565+00:00",
       "id": "fdebd3849ad8fe3b"
+    },
+    "48f08b3d30490851": {
+      "source": "greenhouse",
+      "company": "Riot Games",
+      "title": "Software Engineer, Gameplay - Unpublished R&D Product (Contract)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7449571?gh_jid=7449571",
+      "location": "Guangzhou, China",
+      "remote": null,
+      "posted_at": "2026-09-04T17:52:59+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:57.280907+00:00",
+      "id": "48f08b3d30490851"
+    },
+    "b745730c23181c74": {
+      "source": "greenhouse",
+      "company": "Riot Games",
+      "title": "Software Engineer, Gameplay - Unpublished R&D Product (Contract)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7271179?gh_jid=7271179",
+      "location": "Shanghai, China",
+      "remote": null,
+      "posted_at": "2026-09-04T17:52:59+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:57.280910+00:00",
+      "id": "b745730c23181c74"
+    },
+    "252d69db6544c95a": {
+      "source": "greenhouse",
+      "company": "Riot Games",
+      "title": "Software Engineer, Services - Unpublished R&D Product (Contract)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7449588?gh_jid=7449588",
+      "location": "Guangzhou, China",
+      "remote": null,
+      "posted_at": "2026-09-04T17:52:59+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:57.280912+00:00",
+      "id": "252d69db6544c95a"
+    },
+    "5c56d2de3fab7ae2": {
+      "source": "greenhouse",
+      "company": "Riot Games",
+      "title": "Software Engineer, Services - Unpublished R&D Product (Contract)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/7786020?gh_jid=7786020",
+      "location": "Shanghai, China",
+      "remote": null,
+      "posted_at": "2026-09-04T17:52:59+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:57.280915+00:00",
+      "id": "5c56d2de3fab7ae2"
+    },
+    "ef124468b672c3f0": {
+      "source": "greenhouse",
+      "company": "Scopely",
+      "title": "Software Engineer - Data Infrastructure",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5395475008?gh_jid=5395475008",
+      "location": "JP - Tokyo, Japan",
+      "remote": null,
+      "posted_at": "2026-08-26T04:26:28+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:57.681056+00:00",
+      "id": "ef124468b672c3f0"
+    },
+    "e86e6147c3e6a2c4": {
+      "source": "greenhouse",
+      "company": "Scopely",
+      "title": "Software Engineer - Pokemon GO Platform",
+      "url": "https://job-boards.greenhouse.io/scopely/jobs/5261506008?gh_jid=5261506008",
+      "location": "MX - Mexico City, Mexico",
+      "remote": null,
+      "posted_at": "2026-08-28T00:17:39+00:00",
+      "department": null,
+      "priority": 1,
+      "first_seen": "2026-09-19T00:43:57.681059+00:00",
+      "id": "e86e6147c3e6a2c4"
     }
   }
 }
