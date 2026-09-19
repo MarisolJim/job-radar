@@ -35,3 +35,13 @@ location_exclude: []
 
 # Set true to keep only remote roles:
 remote_only: false
+
+# US-only filter. Drops postings whose location is clearly outside the US
+# (Canada, UK, India, EMEA/APAC, etc.). Uses smart detection of US states,
+# "United States/USA", and remote-US phrasing — not just keyword matching.
+us_only: true
+
+# When us_only is on: keep postings with an ambiguous location (a bare "Remote"
+# with no country) so a likely US remote role isn't dropped. Set false to be
+# strict and require an explicit US signal.
+keep_ambiguous_location: true
