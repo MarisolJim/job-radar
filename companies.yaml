@@ -1,40 +1,50 @@
-# YOUR company watchlist — this is the part you control.
+# YOUR company watchlist.
+#   priority: 2 = instant email alert when they post a new matching role
+#   priority: 1 = daily digest only
+#   priority: 0 = daily digest only (lowest)
 #
-# For each company, find which ATS its careers page uses and the "slug":
-#   Greenhouse : boards.greenhouse.io/SLUG           -> ats: greenhouse
-#   Lever      : jobs.lever.co/SLUG                   -> ats: lever
-#   Ashby      : jobs.ashbyhq.com/SLUG                -> ats: ashby
+# ATS slug = the token in the careers URL:
+#   Greenhouse boards.greenhouse.io/SLUG | Lever jobs.lever.co/SLUG | Ashby jobs.ashbyhq.com/SLUG
 #
-# priority:
-#   2  = alert me INSTANTLY when they post (emailed on the next poll)
-#   1  = include in the daily digest
-#   0  = include in the daily digest (default)
-#
-# The examples below are real, mission-aligned orgs (verified live) so this
-# doubles as a starter social-impact watchlist. Add/replace with your targets.
+# All entries below were verified live on 2026-09-18 (they returned real postings).
+# Companies from your list that are NOT here run on systems this tool can't poll yet
+# (Workday / bespoke portals) — see the note at the bottom.
 
 companies:
-  - name: Mozilla
-    ats: greenhouse
-    slug: mozilla
-    priority: 2
+  # ── Priority 2: education, nonprofit & responsible-AI (be early) ──
+  - { name: Anthropic,                    ats: greenhouse, slug: anthropic,                priority: 2 }
+  - { name: OpenAI,                        ats: ashby,      slug: openai,                   priority: 2 }
+  - { name: Cohere,                        ats: ashby,      slug: cohere,                   priority: 2 }
+  - { name: Perplexity,                    ats: ashby,      slug: perplexity,               priority: 2 }
+  - { name: Together AI,                   ats: greenhouse, slug: togetherai,               priority: 2 }
+  - { name: Mozilla,                       ats: greenhouse, slug: mozilla,                  priority: 2 }  # incl. Common Voice roles
+  - { name: Mozilla.ai,                    ats: greenhouse, slug: mozillaai,                priority: 2 }  # board live but currently 0 jobs
+  - { name: Wikimedia Foundation,          ats: greenhouse, slug: wikimedia,                priority: 2 }
+  - { name: Khan Academy,                  ats: greenhouse, slug: khanacademy,              priority: 2 }
+  - { name: Duolingo,                      ats: greenhouse, slug: duolingo,                 priority: 2 }
+  - { name: Newsela,                       ats: greenhouse, slug: newsela,                  priority: 2 }
+  - { name: IXL Learning,                  ats: greenhouse, slug: ixllearning,              priority: 2 }
+  - { name: BrainPOP,                      ats: greenhouse, slug: brainpop,                 priority: 2 }
+  - { name: Code.org,                      ats: greenhouse, slug: codeorg,                  priority: 2 }
+  - { name: Code for America,              ats: greenhouse, slug: codeforamerica,           priority: 2 }
+  - { name: Chan Zuckerberg Initiative,    ats: greenhouse, slug: chanzuckerberginitiative, priority: 2 }
+  - { name: Omidyar Network,               ats: greenhouse, slug: omidyarnetwork,           priority: 2 }
+  - { name: Patrick J. McGovern Foundation, ats: lever,     slug: mcgovern,                 priority: 2 }  # ⚠️ verify this is the right org
 
-  - name: Wikimedia Foundation
-    ats: greenhouse
-    slug: wikimedia
-    priority: 2
+  # ── Priority 1: larger commercial (digest) ──
+  - { name: Airbnb,                        ats: greenhouse, slug: airbnb,                   priority: 1 }
+  - { name: Stripe,                        ats: greenhouse, slug: stripe,                   priority: 1 }
+  - { name: Block,                         ats: greenhouse, slug: block,                    priority: 1 }
+  - { name: Dropbox,                       ats: greenhouse, slug: dropbox,                  priority: 1 }
+  - { name: Figma,                         ats: greenhouse, slug: figma,                    priority: 1 }
+  - { name: Riot Games,                    ats: greenhouse, slug: riotgames,                priority: 1 }
+  - { name: Scopely,                       ats: greenhouse, slug: scopely,                  priority: 1 }
 
-  - name: Khan Academy
-    ats: greenhouse
-    slug: khanacademy
-    priority: 1
-
-  - name: Code for America
-    ats: greenhouse
-    slug: codeforamerica
-    priority: 1
-
-  - name: Watershed
-    ats: greenhouse
-    slug: watershed
-    priority: 1
+# ── NOT covered yet (run on Workday or bespoke career portals, no clean feed) ──
+# Big tech / commercial: Microsoft, Amazon, Meta, Apple, Adobe, LinkedIn, Intuit, Uber,
+#   Atlassian, ServiceNow, Workday, Snap Inc, TikTok, Netflix, Uber, Whatnot, Ring (Amazon),
+#   Honey (PayPal), Age of Learning, Hugging Face.
+# Nonprofit / edu / research (likely Workable/BambooHR/JazzHR): Curriculum Associates,
+#   Scratch Foundation, Common Sense Media, Te Hiku Media, SIL International,
+#   Translators Without Borders, Partnership on AI, Internet Archive, Knight Foundation,
+#   Schmidt Futures, MacArthur Foundation.
