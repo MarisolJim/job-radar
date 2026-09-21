@@ -49,4 +49,4 @@ def fetch_company(company_cfg: dict) -> list[Job]:
 
 
 # Import concrete sources so they register themselves.
-from sources import greenhouse, lever, ashby  # noqa: E402,F401
+from sources import greenhouse, lever, ashby, workday  # noqa: E402,F401

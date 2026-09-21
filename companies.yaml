@@ -40,7 +40,63 @@ companies:
   - { name: Riot Games,                    ats: greenhouse, slug: riotgames,                priority: 1 }
   - { name: Scopely,                       ats: greenhouse, slug: scopely,                  priority: 1 }
 
+  # ── Field leaders w/ new-grad programs (added 2026-09-20, verified live) ──
+  # Defaulted to priority 1 (digest). Tell me which to bump to 2 (instant).
+  # -- AI / data --
+  - { name: Databricks,                    ats: greenhouse, slug: databricks,               priority: 1 }
+  - { name: Snowflake,                     ats: ashby,      slug: snowflake,                priority: 1 }
+  - { name: Scale AI,                      ats: greenhouse, slug: scaleai,                  priority: 1 }
+  - { name: Character AI,                  ats: ashby,      slug: character,                priority: 1 }
+  # -- Dev infrastructure / SaaS --
+  - { name: Datadog,                       ats: greenhouse, slug: datadog,                  priority: 1 }
+  - { name: MongoDB,                       ats: greenhouse, slug: mongodb,                  priority: 1 }
+  - { name: Confluent,                     ats: ashby,      slug: confluent,                priority: 1 }
+  - { name: GitLab,                        ats: greenhouse, slug: gitlab,                   priority: 1 }
+  - { name: Cloudflare,                    ats: greenhouse, slug: cloudflare,               priority: 1 }
+  - { name: Twilio,                        ats: greenhouse, slug: twilio,                   priority: 1 }
+  - { name: Asana,                         ats: greenhouse, slug: asana,                    priority: 1 }
+  - { name: Notion,                        ats: ashby,      slug: notion,                   priority: 1 }
+  - { name: Vercel,                        ats: greenhouse, slug: vercel,                   priority: 1 }
+  - { name: Elastic,                       ats: greenhouse, slug: elastic,                  priority: 1 }
+  - { name: Okta,                          ats: greenhouse, slug: okta,                     priority: 1 }
+  - { name: PagerDuty,                     ats: greenhouse, slug: pagerduty,                priority: 1 }
+  # -- Fintech --
+  - { name: Coinbase,                      ats: greenhouse, slug: coinbase,                 priority: 1 }
+  - { name: Robinhood,                     ats: greenhouse, slug: robinhood,                priority: 1 }
+  - { name: Plaid,                         ats: ashby,      slug: plaid,                    priority: 1 }
+  - { name: Ramp,                          ats: ashby,      slug: ramp,                     priority: 1 }
+  - { name: Brex,                          ats: greenhouse, slug: brex,                     priority: 1 }
+  - { name: Chime,                         ats: greenhouse, slug: chime,                    priority: 1 }
+  - { name: Affirm,                        ats: greenhouse, slug: affirm,                   priority: 1 }
+  # -- Consumer / media --
+  - { name: Pinterest,                     ats: greenhouse, slug: pinterest,                priority: 1 }
+  - { name: Reddit,                        ats: greenhouse, slug: reddit,                   priority: 1 }
+  - { name: Roblox,                        ats: greenhouse, slug: roblox,                   priority: 1 }
+  - { name: Lyft,                          ats: greenhouse, slug: lyft,                     priority: 1 }
+  - { name: Instacart,                     ats: greenhouse, slug: instacart,                priority: 1 }
+  - { name: Discord,                       ats: greenhouse, slug: discord,                  priority: 1 }
+  - { name: Spotify,                       ats: lever,      slug: spotify,                  priority: 1 }
+  # -- Edtech (mission-aligned → instant) --
+  - { name: Coursera,                      ats: greenhouse, slug: coursera,                 priority: 2 }
+  - { name: Udemy,                         ats: greenhouse, slug: udemy,                    priority: 2 }
+  - { name: Outschool,                     ats: greenhouse, slug: outschool,                priority: 2 }
+  - { name: ClassDojo,                     ats: ashby,      slug: classdojo,                priority: 2 }
+  # -- Quant / finance (strong new-grad pipelines) --
+  - { name: Jane Street,                   ats: greenhouse, slug: janestreet,               priority: 1 }
+  - { name: Jump Trading,                  ats: greenhouse, slug: jumptrading,              priority: 1 }
+
+  # ── Workday-based enterprise leaders (added 2026-09-20, verified live) ──
+  # Workday needs host + site (from the careers URL) instead of a slug.
+  - { name: Adobe,      ats: workday, host: adobe.wd5.myworkdayjobs.com,       site: external_experienced,       priority: 1 }
+  - { name: NVIDIA,     ats: workday, host: nvidia.wd5.myworkdayjobs.com,      site: NVIDIAExternalCareerSite,    priority: 1 }
+  - { name: Salesforce, ats: workday, host: salesforce.wd12.myworkdayjobs.com, site: External_Career_Site,        priority: 1 }
+  - { name: Workday,    ats: workday, host: workday.wd5.myworkdayjobs.com,     site: Workday,                     priority: 1 }
+
 # ── NOT covered yet (run on Workday or bespoke career portals, no clean feed) ──
+# Adobe (your example) runs on Workday — needs the Workday poller to add.
+# Also probed and NOT on GH/Lever/Ashby: Grammarly, HashiCorp, Snyk, GitHub, Marqeta,
+#   Unity, DoorDash, Chegg, Quizlet, Codecademy, Nerdy/Varsity Tutors, Citadel,
+#   Two Sigma, DE Shaw. (Runway & Hudson River Trading excluded: wrong/empty board.)
 # Big tech / commercial: Microsoft, Amazon, Meta, Apple, Adobe, LinkedIn, Intuit, Uber,
 #   Atlassian, ServiceNow, Workday, Snap Inc, TikTok, Netflix, Uber, Whatnot, Ring (Amazon),
 #   Honey (PayPal), Age of Learning, Hugging Face.
