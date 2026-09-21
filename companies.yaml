@@ -92,6 +92,11 @@ companies:
   - { name: Salesforce, ats: workday, host: salesforce.wd12.myworkdayjobs.com, site: External_Career_Site,        priority: 1 }
   - { name: Workday,    ats: workday, host: workday.wd5.myworkdayjobs.com,     site: Workday,                     priority: 1 }
 
+  # ── Workable & SmartRecruiters (added 2026-09-20, verified live) ──
+  - { name: Hugging Face, ats: workable,        slug: huggingface,  priority: 2 }
+  - { name: ServiceNow,   ats: smartrecruiters, slug: ServiceNow,   priority: 1 }
+  - { name: DoorDash,     ats: greenhouse,      slug: doordashusa,  priority: 1 }
+
 # ── NOT covered yet (run on Workday or bespoke career portals, no clean feed) ──
 # Adobe (your example) runs on Workday — needs the Workday poller to add.
 # Also probed and NOT on GH/Lever/Ashby: Grammarly, HashiCorp, Snyk, GitHub, Marqeta,
